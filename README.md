@@ -48,9 +48,9 @@
 
 ## Data Science Projects:
 
-### [Store Sales Prediction - Ongoing](https://github.com/MarlonMuller/DataScience_Em_Producao)
+### [Sales Prediction - Ongoing](https://github.com/MarlonMuller/Rossmann_sales_prediction)
 
-##### Predicting for sales at a pharmacy chain for next six weeks.
+##### Sales forecast using machine learning in a pharmacy chain for the next six weeks.
 
 ##### Skills: Machine Learning, Time Series, Heroku, API, Bot.
 
