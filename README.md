@@ -1,6 +1,6 @@
 ## Hi there, :wave:
 
-##### My name is Marlon and I'm studying data science since december 2020.
+##### My name is Marlon and I'm studying website development since december 2023.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonMuller&label=Profile%20views&color=0e75b6&style=flat" alt="MarlonMuller" /> </p>
 
