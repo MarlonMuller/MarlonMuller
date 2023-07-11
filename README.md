@@ -21,7 +21,7 @@
 
 ## Projects:
 
-### <a target="_blank" href="https://marlonmuller.github.io/projeto-android/index.html/" >Android project - Finished</a>
+### <a href="https://marlonmuller.github.io/projeto-android/index.html/" target="_blank">Android project - Finished</a>
 
 ##### Simple responsive website using html and css.
 
