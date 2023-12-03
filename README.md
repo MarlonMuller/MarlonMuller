@@ -39,7 +39,7 @@
 
 ##### Skills: HTML5 and CSS3.
 
-### <a href="https://marlonmuller.github.io/projeto-morroitacolomi/index.html" target="_blank">Tourism project - Finished</a>
+### <a href="https://marlonmuller.github.io/projeto-morroItacolomi/index.html" target="_blank">Tourism project - Finished</a>
 
 #### Simple responsive website using HTML, CSS and Bootstrap.
 
