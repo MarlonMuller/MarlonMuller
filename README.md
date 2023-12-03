@@ -32,6 +32,24 @@
 #### website with parallax effect using HTML and CSS.
 
 ##### Skills: HTML5 and CSS3.
+
+### <a href="https://marlonmuller.github.io/projeto-login/index.html" target="_blank">Login project - Finished</a>
+
+#### Simulation of a responsive login screen.
+
+##### Skills: HTML5 and CSS3.
+
+### <a href="https://marlonmuller.github.io/projeto-morroitacolomi/index.html" target="_blank">Tourism project - Finished</a>
+
+#### Simple responsive website using HTML, CSS and Bootstrap.
+
+##### Skills: HTML5, CSS3 and Bootstrap.
+
+### <a href="https://marlonmuller.github.io/projeto-social/index.html" target="_blank">Social project - On going</a>
+
+#### Simulation of changing the screen on a cell phone.
+
+##### Skills: HTML5 and CSS3.
 <!--
 **MarlonMuller/MarlonMuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
