@@ -45,11 +45,19 @@
 
 ##### Skills: HTML5, CSS3 and Bootstrap.
 
+### <a href="https://marlonmuller.github.io/projeto-conversor-de-moedas/index.html" target="_blank">Currency converter project - Finished</a>
+
+#### Simulation of currency converter.
+
+##### Skills: Javascript, HTML5 and CSS3.
+
 ### <a href="https://marlonmuller.github.io/projeto-social/index.html" target="_blank">Social project - On going</a>
 
 #### Simulation of changing the screen on a cell phone.
 
 ##### Skills: HTML5 and CSS3.
+
+
 <!--
 **MarlonMuller/MarlonMuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
