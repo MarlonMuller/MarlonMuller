@@ -21,37 +21,43 @@
 
 ## Projects:
 
-### <a href="https://marlonmuller.github.io/projeto-conversor-de-moedas/index.html" target="_blank">Currency converter project - Finished</a>
+### <a href="https://marlonmuller.github.io/projeto-jokenpo/index.html">Currency converter project - Finished</a>
+
+#### JokenPô game.
+
+##### Skills: Javascript, HTML5 and CSS3.
+
+### <a href="https://marlonmuller.github.io/projeto-conversor-de-moedas/index.html">Currency converter project - Finished</a>
 
 #### Simulation of currency converter.
 
 ##### Skills: Javascript, HTML5 and CSS3.
 
-### <a href="https://marlonmuller.github.io/projeto-android/index.html" target="_blank">Android project - Finished</a>
+### <a href="https://marlonmuller.github.io/projeto-android/index.html">Android project - Finished</a>
 
 ##### Simple responsive website using HTML and CSS.
 
 ##### Skills: HTML5 and CSS3.
 
-### <a href="https://marlonmuller.github.io/projeto-cordel/index.html" target="_blank">Cordel project - Finished</a>
+### <a href="https://marlonmuller.github.io/projeto-cordel/index.html">Cordel project - Finished</a>
 
 #### website with parallax effect using HTML and CSS.
 
 ##### Skills: HTML5 and CSS3.
 
-### <a href="https://marlonmuller.github.io/projeto-login/index.html" target="_blank">Login project - Finished</a>
+### <a href="https://marlonmuller.github.io/projeto-login/index.html">Login project - Finished</a>
 
 #### Simulation of a responsive login screen.
 
 ##### Skills: HTML5 and CSS3.
 
-### <a href="https://marlonmuller.github.io/projeto-morroItacolomi/index.html" target="_blank">Tourism project - Finished</a>
+### <a href="https://marlonmuller.github.io/projeto-morroItacolomi/index.html">Tourism project - Finished</a>
 
 #### Simple responsive website using HTML, CSS and Bootstrap.
 
 ##### Skills: HTML5, CSS3 and Bootstrap.
 
-### <a href="https://marlonmuller.github.io/projeto-social/index.html" target="_blank">Social project - On going</a>
+### <a href="https://marlonmuller.github.io/projeto-social/index.html">Social project - On going</a>
 
 #### Simulation of changing the screen on a cell phone.
 
