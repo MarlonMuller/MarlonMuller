@@ -21,7 +21,7 @@
 
 ## Projects:
 
-### <a href="https://marlonmuller.github.io/projeto-jokenpo/index.html">Currency converter project - Finished</a>
+### <a href="https://marlonmuller.github.io/projeto-jokenpo/index.html">JokenPô - Finished</a>
 
 #### JokenPô game.
 
