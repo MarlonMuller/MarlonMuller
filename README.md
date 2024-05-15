@@ -6,7 +6,7 @@
 
 ## Hard Skills:
 
-##### Front-end developer: HTML5, CSS3 and Javascript. 
+##### Front-end developer: HTML5, CSS3, Javascript and React.
 
 
 ## Connect with me:
