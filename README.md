@@ -6,7 +6,7 @@
 
 ## Hard Skills:
 
-##### Web developer: HTML5, CSS3, Javascript, React, Java and SQL.
+##### Web developer: HTML5, CSS3, Javascript, React, Node, Java and SQL.
 
 
 ## Connect with me:
