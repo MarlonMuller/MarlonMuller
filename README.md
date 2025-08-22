@@ -6,7 +6,7 @@
 
 ## Hard Skills:
 
-##### Web developer: HTML5, CSS3, Javascript, React, Node, Java and SQL.
+##### Web developer: React, HTML5, CSS3, Javascript, Node, Java and SQL.
 
 
 ## Connect with me:
@@ -21,11 +21,33 @@
 
 ## Projects:
 
+### <a href="https://projeto-lista-de-compras-s8ab.vercel.app">Lista de compras - Finished</a>
+
+#### Lista de compras.
+
+##### Skills: React, TypeScript, Vite, Javascript, HTML5 and CSS3.
+
+
+### <a href="https://github.com/MarlonMuller/projeto-agenda-clientes">Agenda clientes - Finished</a>
+
+#### Agenda clientes.
+
+##### Skills: Javascript, HTML5 and CSS3.
+
+
+### <a href="https://projeto-loja-informatica.vercel.app/index.html">Loja de informática - Finished</a>
+
+#### Loja de informática.
+
+##### Skills: Javascript, HTML5 and CSS3.
+
+
 ### <a href="https://marlonmuller.github.io/projeto-jokenpo/index.html">JokenPô project - Finished</a>
 
 #### JokenPô game.
 
 ##### Skills: Javascript, HTML5 and CSS3.
+
 
 ### <a href="https://marlonmuller.github.io/projeto-conversor-de-moedas/index.html">Currency converter project - Finished</a>
 
@@ -33,11 +55,13 @@
 
 ##### Skills: Javascript, HTML5 and CSS3.
 
+
 ### <a href="https://marlonmuller.github.io/projeto-android/index.html">Android project - Finished</a>
 
 ##### Simple responsive website using HTML and CSS.
 
 ##### Skills: HTML5 and CSS3.
+
 
 ### <a href="https://marlonmuller.github.io/projeto-cordel/index.html">Cordel project - Finished</a>
 
@@ -45,36 +69,16 @@
 
 ##### Skills: HTML5 and CSS3.
 
+
 ### <a href="https://marlonmuller.github.io/projeto-login/index.html">Login project - Finished</a>
 
 #### Simulation of a responsive login screen.
 
 ##### Skills: HTML5 and CSS3.
 
+
 ### <a href="https://marlonmuller.github.io/projeto-morroItacolomi/index.html">Tourism project - Finished</a>
 
 #### Simple responsive website using HTML, CSS and Bootstrap.
 
 ##### Skills: HTML5, CSS3 and Bootstrap.
-
-### <a href="https://marlonmuller.github.io/projeto-social/index.html">Social project - On going</a>
-
-#### Simulation of changing the screen on a cell phone.
-
-##### Skills: HTML5 and CSS3.
-
-
-<!--
-**MarlonMuller/MarlonMuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
